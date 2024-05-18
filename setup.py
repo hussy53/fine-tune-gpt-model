@@ -8,7 +8,7 @@ import random
 import time
 
 # Open AI api key
-openai.api_key = "sk-proj-0SF6MpP1H0wrOgxek1kfT3BlbkFJ8WavPhfOBSQDTzcanFMW"
+openai.api_key = "YOUR_API_KEY"
 
 
 # Splits the lines of the input file into training and evaluation files.
